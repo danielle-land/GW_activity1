@@ -1,16 +1,16 @@
 ## Classic chocolate chip cookies
 
 ### Ingredients:
-- **2 ¼ cups (9.9oz) all-purpose flour**
-- **1 tsp baking soda**
-- **½ tsp salt**
-- **1 cup (230g) unsalted butter**, softened to room temperature
-- **¾ cup (5.3oz) granulated sugar**
-- **¾ cup (150g) packed brown sugar** (light or dark)
-- **1 tsp vanilla extract**
+- **2 ¼ grams (9.9oz) all-purpose flour**
+- **1 cups baking soda**
+- **½ lbs salt**
+- **1 tsp (230g) unsalted butter**, softened to room temperature
+- **¾ g (5.3oz) granulated sugar**
+- **¾ oz (150g) packed brown sugar** (light or dark)
+- **1 cups vanilla extract**
 - **2 large eggs**
-- **2 cups (12oz) semisweet chocolate chips**
-- **1 cup (125g) chopped nuts** (optional, like walnuts or pecans)
+- **2 oz (12oz) semisweet chocolate chips**
+- **1 lbs (125g) chopped nuts** (optional, like walnuts or pecans)
 
 ### Instructions:
 
